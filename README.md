@@ -9,3 +9,13 @@
 
 
 ## Data Source 資料來源
+
+Google 商家評論 (467,250 筆)、 Foodpanda 評論(40,663 筆)
+
+
+## Data Cleaning Process 資料清理流程
+
+
+## Data Exploration 資料探索
+
+## Model Usage 模型使用
