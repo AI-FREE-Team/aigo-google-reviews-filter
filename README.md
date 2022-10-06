@@ -15,7 +15,16 @@ Google 商家評論 (467,250 筆)、 Foodpanda 評論(40,663 筆)
 
 ## Data Cleaning Process 資料清理流程
 
+![image](https://raw.githubusercontent.com/AI-FREE-Team/aigo-google-reviews-filter/main/images/1.png)
 
 ## Data Exploration 資料探索
 
+![image](https://raw.githubusercontent.com/AI-FREE-Team/aigo-google-reviews-filter/main/images/2.png)
+
 ## Model Usage 模型使用
+
+Word-Embedding + LSTM
+
+## Inference Example 
+
+![image](https://raw.githubusercontent.com/AI-FREE-Team/aigo-google-reviews-filter/main/images/%E6%A8%A1%E5%9E%8B%E6%8E%A8%E8%AB%96%E4%BE%8B%E5%9C%96.png)
